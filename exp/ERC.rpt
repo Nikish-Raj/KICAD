@@ -1,0 +1,16 @@
+ERC report (2026-11-15T20:09:57, Encoding UTF8)
+Report includes: Warnings
+
+***** Sheet /
+[multiple_net_names]: Both  and VIN are attached to the same items;  will be used in the netlist
+    ; warning
+    @(4500 mils, 2000 mils): Label ''
+    @(4500 mils, 2000 mils): Label 'VIN'
+
+ ** ERC messages: 1  Errors 0  Warnings 1
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
